@@ -10,7 +10,7 @@ The goal of this project is to demonstrate a **principled workflow for statistic
 
 # Data Source
 
-Data come from the **New York State SPARCS inpatient database**.
+Data come from the **New York State SPARCS inpatient database, 2024**.
 
 The original dataset contains:
 
